@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(243, 243, 243);
+    margin: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.musica {
+    display: flex;
+    flex-direction: column;
+    justify-items:auto;
+    align-items: center;
+    border: 1px solid black;
+    width: 500px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+img {
+    width: 400px;
+    border-radius: 5%;
+    background-color: white;
+}
